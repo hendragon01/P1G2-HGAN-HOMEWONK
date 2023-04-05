@@ -1,0 +1,4 @@
+(FOR)= Es generalmente usada para actualizar o incrementar la variable contador es decir que permite repetir una instruccion compuesta por un numero especificado de veces
+(while)= permite repetir una instruccion hasta que una especificada sea falsa
+(if)= ejecuta una sentencia si una condicion especificada es evaluada como verdadera por ejemplo si se ejecuta un bloque de codigos cuando la condicion es falsa se ejecutara el bloque else
+(case)= es una exprecion que es comparada con el valor de cada instancia
