@@ -1,0 +1,27 @@
+var edad = 23;
+
+var punto_flotantes = 12.5;
+
+
+
+/*
+operadores aritmeticos
+division = /
+multiplicacion = *
+Suma = +
+Resta = -
+Modulo = %
+*/
+
+var resultado_suma = edad % 2;
+
+console.log(resultado_suma);
+
+function es-par(numero){
+     if(numero % 2 == 0){
+      return true;
+  }
+    return false;
+ }
+console.log(math.random();
+console.log(math.sqrt(4));
